@@ -1,15 +1,15 @@
 # JR_Learning_Platform
 
 project scope and objective:<br>
-	->To make kids learn programming language basics and syntax of the preferred Language<br>
+	-To make kids learn programming language basics and syntax of the preferred Language<br>
 
 Key features and functionalities:
 Key features:
-	->profile maintenance
- 	->streaks maintenance
-  	->lesson report
-   	->mistakes
-    	->Chatbot(CHATGPT)
+	-profile maintenance
+ 	-streaks maintenance
+  	-lesson report
+   	-mistakes
+    	-Chatbot(CHATGPT)
 
 Functionalities:
 	->compete with other users
