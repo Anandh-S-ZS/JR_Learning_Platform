@@ -6,10 +6,10 @@ project scope and objective:<br>
 Key features and functionalities:
 Key features:
 	->profile maintenance
-	->streaks maintenance
-	->lesson report
-	->mistakes
-	->Chatbot(CHATGPT)
+ 	->streaks maintenance
+  	->lesson report
+   	->mistakes
+    	->Chatbot(CHATGPT)
 
 Functionalities:
 	->compete with other users
