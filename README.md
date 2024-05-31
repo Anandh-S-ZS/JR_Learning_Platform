@@ -1,7 +1,7 @@
 # JR_Learning_Platform
 
-project scope and objective:
-	->To make kids learn programming language basics and syntax of the preferred Language
+project scope and objective:<br>
+	->To make kids learn programming language basics and syntax of the preferred Language<br>
 
 Key features and functionalities:
 Key features:
