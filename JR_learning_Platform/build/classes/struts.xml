@@ -8,7 +8,7 @@
     <package name="basicstruts2" extends="struts-default">
      
         <action name="login" class="com.action.LoginAction">
-            <result name="success">index.jsp</result>
+            <result name="success">Dashboard.jsp</result>
             <result name="error">errorpage.jsp</result>
         </action>
         
@@ -18,8 +18,12 @@
         </action>
         
         <action name="register" class="com.action.InsertUser">
-        	<result name="success">index.jsp</result>
+        	<result name="success">Dashboard.jsp</result>
         	<result name="error">errorpage.jsp</result>
+        </action>
+        
+        <action name="LanguageDashBoard" class="com.language.LanguagePage">
+        	<result>Languagepage.jsp</result>
         </action>
         
     </package>

@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<form action="register">
+	<form action="register" method="post">
 		<input type="text" name="otp" id="otp">
 
 		<button type="submit">Submit</button>

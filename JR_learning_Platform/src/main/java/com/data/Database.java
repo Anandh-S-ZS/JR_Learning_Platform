@@ -6,7 +6,9 @@ import java.sql.ResultSet;
 public class Database {
 	private static PreparedStatement pst;
 	private static Connection con;
-	private static Connection getConnection() {
+	
+	
+	public static Connection getConnection() {
 		try {
 			if(con==null) {
 				String url="jdbc:mysql://localhost:3306/webpage";
